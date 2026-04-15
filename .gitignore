@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+
+# Logs
+*.log
+logs/
+
+# IDE
+.vscode/
+.idea/
+
+# Build outputs
+dist/
+build/
+coverage/
+
+# Env files
+.env
+*.env.local
+
+# Node modules safety (optional fallback)
+node_modules/
